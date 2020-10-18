@@ -1,9 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### "Where are the Planets?"
 
-"Where are the Planets?"
-
-This app is a project that I originally started in 2016 to get better at JavaScript.  Now (OCt 2020) I'm refactoring with React since I'm now learning that. :)
+This app is a project that I originally started in 2016 to get better at JavaScript.  Now (OCT 2020) I'm refactoring with React since I'm now learning that. :)
 
 ## Available Scripts
 
