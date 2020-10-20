@@ -15,31 +15,6 @@ import Neptune from "./neptune.png";
 var today = new Date();
 
 class App extends React.Component {
-  /*
-  propTypes: {
-    defaultDate: React.PropTypes.number,
-    defaultMonth: React.PropTypes.number,
-    defaultYear: React.PropTypes.number,
-    date: React.PropTypes.number,
-    month: React.PropTypes.number,
-    year: React.PropTypes.number
-  },
-  getDefaultProps: function() {
-    let today = new Date();
-    return {
-      defaultDate: today.getDate(),
-      defaultMonth: today.getMonth(),
-      defaultYear: today.getFullYear(),
-    }
-  },
-  getInitialState: function() {
-    return {
-      date: this.props.defaultDate,
-      month: this.props.defaultMonth,
-      year: this.props.defaultYear,
-    }
-  },
-  */
   render() {
     return (
       <div className="app">
